@@ -7,8 +7,8 @@
     "former_names": [],
     "board_certified_ps": true,
     "branches": [
-      { "id": "C001-GN", "name_ko": "강남역점", "area": "강남역" },
-      { "id": "C001-SS", "name_ko": "신사점", "area": "신사" }
+      { "id": "C001-GN", "name_ko": "강남역점", "area": "강남역", "area_en": "Gangnam" },
+      { "id": "C001-SS", "name_ko": "신사점", "area": "신사", "area_en": "Sinsa" }
     ],
     "surgeons": ["김도윤", "박서준"]
   },
@@ -19,7 +19,7 @@
     "aliases": ["온유", "온유성형외과"],
     "former_names": [],
     "board_certified_ps": true,
-    "branches": [{ "id": "C002-AP", "name_ko": "압구정 본점", "area": "압구정" }],
+    "branches": [{ "id": "C002-AP", "name_ko": "압구정 본점", "area": "압구정", "area_en": "Apgujeong" }],
     "surgeons": ["이하은"]
   },
   {
@@ -29,7 +29,7 @@
     "aliases": ["미소라인"],
     "former_names": [],
     "board_certified_ps": false,
-    "branches": [{ "id": "C003-GN", "name_ko": "강남점", "area": "강남역" }],
+    "branches": [{ "id": "C003-GN", "name_ko": "강남점", "area": "강남역", "area_en": "Gangnam" }],
     "surgeons": ["최민재"]
   },
   {
@@ -39,7 +39,7 @@
     "aliases": ["새봄"],
     "former_names": ["봄날성형외과"],
     "board_certified_ps": true,
-    "branches": [{ "id": "C004-SS", "name_ko": "신사점", "area": "신사" }],
+    "branches": [{ "id": "C004-SS", "name_ko": "신사점", "area": "신사", "area_en": "Sinsa" }],
     "surgeons": ["정유나"]
   },
   {
@@ -49,7 +49,7 @@
     "aliases": ["하늘"],
     "former_names": [],
     "board_certified_ps": true,
-    "branches": [{ "id": "C005-GN", "name_ko": "강남역점", "area": "강남역" }],
+    "branches": [{ "id": "C005-GN", "name_ko": "강남역점", "area": "강남역", "area_en": "Gangnam" }],
     "surgeons": ["한지호"]
   }
 ]
