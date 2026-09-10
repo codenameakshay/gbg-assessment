@@ -1,0 +1,48 @@
+[
+  {
+    "id": "r04",
+    "source": "https://cafe.naver.com/example/1187",
+    "cross_posts": [],
+    "candidates": [
+      {
+        "clinic": "C001",
+        "branch": "C001-GN",
+        "via": "initials"
+      },
+      {
+        "clinic": "C005",
+        "branch": "C005-GN",
+        "via": "initials"
+      }
+    ],
+    "status": "hold",
+    "hold": [
+      "clinic/branch not certain",
+      "allegation needs human review: Suspected ghost surgery (대리수술): the reviewer thinks the director who explained the procedure at the consultation was not the person who came in on the day of surgery; The reviewer asked to view the CCTV footage of the surgery and the clinic has not responded yet"
+    ],
+    "branch": null,
+    "procedures": [
+      "Rhinoplasty (nose surgery)"
+    ],
+    "surgeon": null,
+    "price_krw": null,
+    "price_channel": "unknown",
+    "outcome": "negative",
+    "side_effects": [
+      "Asymmetric nasal tip (reviewer is looking into revision surgery)"
+    ],
+    "allegations": [
+      "Suspected ghost surgery (대리수술): the reviewer thinks the director who explained the procedure at the consultation was not the person who came in on the day of surgery",
+      "The reviewer asked to view the CCTV footage of the surgery and the clinic has not responded yet"
+    ],
+    "translation_en": "I had my nose done at ㅎㄴ near ㄱㄴ Station, but I think the director who explained things to me at the consultation and the person who came in on the day of surgery were different people. I suspect ghost surgery, so I asked to view the CCTV footage, but I still haven't heard back. The tip of my nose is asymmetric, so I'm looking into revision surgery. Because of the café's rules, I'm only writing the clinic's name in initials.",
+    "verifier_issues": [],
+    "trust": {
+      "sponsored": false,
+      "clinic_owned_source": false,
+      "receipt": false,
+      "rating_weight": 1
+    },
+    "secs": 31
+  }
+]
