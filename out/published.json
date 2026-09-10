@@ -16,17 +16,17 @@
     "hold": [],
     "branch": "C001-SS",
     "procedures": [
-      "Incisional double eyelid surgery"
+      "Double eyelid surgery (incisional)"
     ],
     "surgeon": "김도윤",
     "price_krw": 1500000,
     "price_channel": "local",
     "outcome": "positive",
     "side_effects": [
-      "Swelling (mostly gone by week 2)"
+      "swelling (mostly subsided by week 2)"
     ],
     "allegations": [],
-    "translation_en": "I had double eyelid surgery (incisional) at Haneulbit Sinsa branch (하늘빛 신사점). Director Kim Do-yoon performed the surgery himself, and before the operation they also had me sign a consent form for CCTV recording in the operating room. They first quoted 1,800,000 won, but there was a promotion so I got it done for 1,500,000 won. The swelling had mostly gone down by the second week, and the line looks natural, so I'm satisfied. I'm attaching a photo of the receipt as proof.",
+    "translation_en": "I had double eyelid surgery (incisional) at Haneulbit Sinsa branch. Director Kim Do-yoon operated on me personally, and before the surgery they even had me sign a consent form for CCTV recording in the operating room. They initially quoted 1,800,000 KRW, but there was an event/promotion so I had it done for 1,500,000 KRW. The swelling had almost gone down by the second week, and the line looks natural, so I'm satisfied. Attaching a photo of the receipt as proof.",
     "verifier_issues": [],
     "trust": {
       "sponsored": false,
@@ -34,79 +34,7 @@
       "receipt": true,
       "rating_weight": 1
     },
-    "secs": 35.4
-  },
-  {
-    "id": "r03",
-    "source": "https://blog.naver.com/example/3310",
-    "cross_posts": [],
-    "candidates": [
-      {
-        "clinic": "C001",
-        "branch": "C001-GN",
-        "via": "name"
-      }
-    ],
-    "status": "publish",
-    "hold": [],
-    "branch": "C001-GN",
-    "procedures": [
-      "Rhinoplasty"
-    ],
-    "surgeon": null,
-    "price_krw": null,
-    "price_channel": "unknown",
-    "outcome": "positive",
-    "side_effects": [
-      "Almost no swelling"
-    ],
-    "allegations": [],
-    "translation_en": "This is my rhinoplasty review for Haneulbit Plastic Surgery (Haneulbit Seonghyeongoegwa), Gangnam Station branch. Everyone was so kind, from the consultation all the way through the surgery, and the result is perfect! There was almost no swelling and my recovery was fast too. I strongly recommend it to anyone who is worried about their nose. ※ This post was written after receiving support for the procedure cost from the clinic.",
-    "verifier_issues": [],
-    "trust": {
-      "sponsored": true,
-      "clinic_owned_source": false,
-      "receipt": false,
-      "rating_weight": 0
-    },
-    "secs": 32.2
-  },
-  {
-    "id": "r05",
-    "source": "https://cafe.daum.net/example/552",
-    "cross_posts": [],
-    "candidates": [
-      {
-        "clinic": "C004",
-        "branch": "C004-SS",
-        "via": "name"
-      }
-    ],
-    "status": "publish",
-    "hold": [],
-    "branch": "C004-SS",
-    "procedures": [
-      "Facial contouring",
-      "Zygoma (cheekbone) reduction",
-      "Square jaw (mandible angle) reduction"
-    ],
-    "surgeon": null,
-    "price_krw": 9000000,
-    "price_channel": "local",
-    "outcome": "mixed",
-    "side_effects": [
-      "Numbness at one corner of the mouth for about 3 months, now mostly recovered"
-    ],
-    "allegations": [],
-    "translation_en": "I had facial contouring at Bomnal Plastic Surgery (봄날성형외과; it has since been renamed Saebom Plastic Surgery / 새봄성형외과). I did cheekbones + square jaw together, and it cost 9,000,000 KRW (900만원) in total. As a side effect, one corner of my mouth was numb for about 3 months, but the feeling has almost completely come back now.",
-    "verifier_issues": [],
-    "trust": {
-      "sponsored": false,
-      "clinic_owned_source": false,
-      "receipt": false,
-      "rating_weight": 1
-    },
-    "secs": 27.5
+    "secs": 34.5
   },
   {
     "id": "r06",
@@ -123,8 +51,8 @@
     "hold": [],
     "branch": "C002-AP",
     "procedures": [
-      "Ptosis correction (eye-shape correction / nunmae gyojeong)",
-      "Epicanthoplasty (medial canthoplasty / ap-teuim)"
+      "ptosis correction (eye shape correction)",
+      "epicanthoplasty (inner corner incision)"
     ],
     "surgeon": null,
     "price_krw": null,
@@ -132,7 +60,7 @@
     "outcome": "positive",
     "side_effects": [],
     "allegations": [],
-    "translation_en": "I had eye-shape correction (ptosis correction) and epicanthoplasty (medial epicanthoplasty) at Onyu Plastic Surgery (온유성형외과). The director is really meticulous, and I'm extremely satisfied with the result! The price is reasonable too. I recommend it!!",
+    "translation_en": "I had ptosis correction (eye shape correction) and epicanthoplasty (inner corner incision) at Onyu Plastic Surgery (온유성형외과). The director was really meticulous and I'm extremely satisfied with the result! The price was reasonable too. I recommend it!!",
     "verifier_issues": [],
     "trust": {
       "sponsored": false,
@@ -140,40 +68,7 @@
       "receipt": false,
       "rating_weight": 0.3
     },
-    "secs": 24
-  },
-  {
-    "id": "r07",
-    "source": "https://cafe.naver.com/example/1240",
-    "cross_posts": [],
-    "candidates": [
-      {
-        "clinic": "C003",
-        "branch": "C003-GN",
-        "via": "name"
-      }
-    ],
-    "status": "publish",
-    "hold": [],
-    "branch": "C003-GN",
-    "procedures": [
-      "Chin filler (1cc)"
-    ],
-    "surgeon": null,
-    "price_krw": 250000,
-    "price_channel": "local",
-    "outcome": "mixed",
-    "side_effects": [],
-    "allegations": [],
-    "translation_en": "I got 1cc of chin filler at Misoline Clinic (미소라인의원), and it was 250,000 won. I found out later that the director isn't a board-certified plastic surgeon. The result is decent, but I think next time I'll go to a clinic with a specialist.",
-    "verifier_issues": [],
-    "trust": {
-      "sponsored": false,
-      "clinic_owned_source": false,
-      "receipt": false,
-      "rating_weight": 1
-    },
-    "secs": 30.3
+    "secs": 28.9
   },
   {
     "id": "r08",
@@ -190,28 +85,25 @@
     "hold": [],
     "branch": "C001-SS",
     "procedures": [
-      "Double eyelid surgery",
-      "Scar laser treatment (scheduled, not yet received)"
+      "double eyelid surgery"
     ],
     "surgeon": null,
     "price_krw": null,
     "price_channel": "unknown",
     "outcome": "mixed",
     "side_effects": [
-      "Scar on the left side is still somewhat red at 3 months post-op"
+      "left eyelid scar still somewhat red at 3 months"
     ],
     "allegations": [],
-    "translation_en": "This is my 3-month review of double eyelid surgery at Haneulbit Sinsa branch (하늘빛 신사점). The line has settled, but the scar on the left side is still a bit red. The director (원장님) said they would do the scar laser treatment for free, so I'm getting it next week.",
-    "verifier_issues": [
-      "translation_en calls the director 'he', but the original (원장님이 ... 해주신다고) never says the director's gender. Use gender-neutral wording."
-    ],
+    "translation_en": "This is my 3-month review of double eyelid surgery at Haneulbit Sinsa branch. The crease has settled, but the scar on the left is still a bit red. The director said he would do the scar laser for free, so I've arranged to get it next week.",
+    "verifier_issues": [],
     "trust": {
       "sponsored": false,
       "clinic_owned_source": false,
       "receipt": false,
       "rating_weight": 1
     },
-    "secs": 29.4
+    "secs": 44.8
   },
   {
     "id": "r09",
@@ -233,7 +125,7 @@
     "hold": [],
     "branch": "C002-AP",
     "procedures": [
-      "Breast surgery (type not specified; likely augmentation)"
+      "breast surgery"
     ],
     "surgeon": null,
     "price_krw": 6000000,
@@ -241,42 +133,7 @@
     "outcome": "positive",
     "side_effects": [],
     "allegations": [],
-    "translation_en": "I had breast consultations at two places, Onyu and Haneulbit Gangnam Station branch. Onyu quoted 6,000,000 KRW and Haneulbit quoted 7,500,000 KRW. In the end I had it done at Onyu. I'm now 6 months post-op, the feel is natural, and I'm satisfied.",
-    "verifier_issues": [
-      "price_krw is null, but the post says Onyu, where the procedure was done, quoted 600 (600만원 = 6,000,000 KRW). The extraction also sets price_channel to 'quote', which contradicts leaving the price null. price_krw should be 6000000."
-    ],
-    "trust": {
-      "sponsored": false,
-      "clinic_owned_source": false,
-      "receipt": false,
-      "rating_weight": 1
-    },
-    "secs": 28
-  },
-  {
-    "id": "r10",
-    "source": "https://www.reddit.com/r/example/comments/abc123",
-    "cross_posts": [],
-    "candidates": [
-      {
-        "clinic": "C001",
-        "branch": "C001-SS",
-        "via": "name"
-      }
-    ],
-    "status": "publish",
-    "hold": [],
-    "branch": "C001-SS",
-    "procedures": [
-      "Double eyelid surgery"
-    ],
-    "surgeon": "Dr. Kim",
-    "price_krw": 1600000,
-    "price_channel": "agency",
-    "outcome": "mixed",
-    "side_effects": [],
-    "allegations": [],
-    "translation_en": "Got double eyelid surgery at Haneulbit (Sinsa branch) in July. Paid 1.6M KRW through an agency - later found out locals paid 1.5M, so the agency clearly took a cut. Dr. Kim was great, but the agency's interpreter rushed the consult and I never got the aftercare sheet in English.",
+    "translation_en": "I had breast consultations at two places, Onyu and Haneulbit Gangnam Station branch. Onyu quoted 6 million won and Haneulbit quoted 7.5 million won. In the end I had it done at Onyu, and I'm now 6 months post-op — the feel is natural and I'm satisfied.",
     "verifier_issues": [],
     "trust": {
       "sponsored": false,
@@ -284,6 +141,6 @@
       "receipt": false,
       "rating_weight": 1
     },
-    "secs": 26.3
+    "secs": 27.9
   }
 ]

@@ -1,5 +1,42 @@
 [
   {
+    "id": "r03",
+    "source": "https://blog.naver.com/example/3310",
+    "cross_posts": [],
+    "candidates": [
+      {
+        "clinic": "C001",
+        "branch": "C001-GN",
+        "via": "name"
+      }
+    ],
+    "status": "hold",
+    "hold": [
+      "verifier findings require human review: price_channel is 'unknown' but the post's disclosure states the clinic covered the procedure fee (시술비를 지원받아) — the channel is comped/sponsored, not unknown."
+    ],
+    "branch": "C001-GN",
+    "procedures": [
+      "rhinoplasty"
+    ],
+    "surgeon": null,
+    "price_krw": null,
+    "price_channel": "unknown",
+    "outcome": "positive",
+    "side_effects": [],
+    "allegations": [],
+    "translation_en": "This is a review of my nose surgery at Haneulbit Plastic Surgery, Gangnam Station branch. From the consultation through the surgery they were extremely kind, and the result is perfect! There was almost no swelling and recovery was fast. I strongly recommend it to anyone who has concerns about their nose. ※ This post was written with the surgery cost supported by the hospital in question.",
+    "verifier_issues": [
+      "price_channel is 'unknown' but the post's disclosure states the clinic covered the procedure fee (시술비를 지원받아) — the channel is comped/sponsored, not unknown."
+    ],
+    "trust": {
+      "sponsored": true,
+      "clinic_owned_source": false,
+      "receipt": false,
+      "rating_weight": 0
+    },
+    "secs": 32.7
+  },
+  {
     "id": "r04",
     "source": "https://cafe.naver.com/example/1187",
     "cross_posts": [],
@@ -18,24 +55,24 @@
     "status": "hold",
     "hold": [
       "clinic/branch not certain",
-      "allegation needs human review: Suspected ghost surgery (대리수술): the reviewer thinks the director who explained the procedure at the consultation was not the person who came in on the day of surgery; The reviewer asked to view the CCTV footage of the surgery and the clinic has not responded yet"
+      "allegation needs human review: Suspected ghost surgery: the director who explained the procedure at the consultation appeared to be a different person from the one who came in on the day of surgery; Clinic has not responded to the reviewer's request to view the CCTV footage"
     ],
     "branch": null,
     "procedures": [
-      "Rhinoplasty (nose surgery)"
+      "rhinoplasty (nose surgery)"
     ],
     "surgeon": null,
     "price_krw": null,
     "price_channel": "unknown",
     "outcome": "negative",
     "side_effects": [
-      "Asymmetric nasal tip (reviewer is looking into revision surgery)"
+      "asymmetric nose tip"
     ],
     "allegations": [
-      "Suspected ghost surgery (대리수술): the reviewer thinks the director who explained the procedure at the consultation was not the person who came in on the day of surgery",
-      "The reviewer asked to view the CCTV footage of the surgery and the clinic has not responded yet"
+      "Suspected ghost surgery: the director who explained the procedure at the consultation appeared to be a different person from the one who came in on the day of surgery",
+      "Clinic has not responded to the reviewer's request to view the CCTV footage"
     ],
-    "translation_en": "I had my nose done at ㅎㄴ near ㄱㄴ Station, but I think the director who explained things to me at the consultation and the person who came in on the day of surgery were different people. I suspect ghost surgery, so I asked to view the CCTV footage, but I still haven't heard back. The tip of my nose is asymmetric, so I'm looking into revision surgery. Because of the café's rules, I'm only writing the clinic's name in initials.",
+    "translation_en": "I had my nose done at ㅎㄴ near ㄱㄴ Station, but I think the director who explained things to me at the consultation was different from the person who came in on the day of the surgery. I suspect ghost surgery, so I requested to view the CCTV footage, but there's still no answer. My nose tip is asymmetric, so I'm looking into revision surgery. Per the cafe's rules, I'll only write the clinic name in initials.",
     "verifier_issues": [],
     "trust": {
       "sponsored": false,
@@ -43,6 +80,127 @@
       "receipt": false,
       "rating_weight": 1
     },
-    "secs": 31
+    "secs": 29.2
+  },
+  {
+    "id": "r05",
+    "source": "https://cafe.daum.net/example/552",
+    "cross_posts": [],
+    "candidates": [
+      {
+        "clinic": "C004",
+        "branch": "C004-SS",
+        "via": "name"
+      }
+    ],
+    "status": "hold",
+    "hold": [
+      "verifier findings require human review: price_channel is set to \"local\" but the post says nothing about how/where the price was arranged or paid — unsupported inference (not repairable with the available correction fields)."
+    ],
+    "branch": "C004-SS",
+    "procedures": [
+      "facial contouring",
+      "zygoma (cheekbone) reduction",
+      "square jaw (mandible angle) reduction"
+    ],
+    "surgeon": null,
+    "price_krw": 9000000,
+    "price_channel": "local",
+    "outcome": "mixed",
+    "side_effects": [
+      "numbness in one corner of the mouth for about 3 months (now almost fully recovered)"
+    ],
+    "allegations": [],
+    "translation_en": "I had facial contouring at Bomnal Plastic Surgery (it's now been renamed Saebom Plastic Surgery). I had cheekbone reduction and square jaw reduction together, for a total of 9 million won. As a side effect, one corner of my mouth was numb for about 3 months, but by now it has almost fully come back.",
+    "verifier_issues": [
+      "price_channel is set to \"local\" but the post says nothing about how/where the price was arranged or paid — unsupported inference (not repairable with the available correction fields)."
+    ],
+    "trust": {
+      "sponsored": false,
+      "clinic_owned_source": false,
+      "receipt": false,
+      "rating_weight": 1
+    },
+    "secs": 36.2
+  },
+  {
+    "id": "r07",
+    "source": "https://cafe.naver.com/example/1240",
+    "cross_posts": [],
+    "candidates": [
+      {
+        "clinic": "C003",
+        "branch": "C003-GN",
+        "via": "name"
+      }
+    ],
+    "status": "hold",
+    "hold": [
+      "verifier findings require human review: price_channel is set to \"local\" but the post gives no evidence of how the price was obtained (no mention of walk-in, event price, app coupon, or promotion); this is an unsupported inference.; Clinic name is romanized as \"Misoraine Clinic\" in the translation while the registry entry is \"Misoline Clinic\" (C003-GN); the transliteration should be aligned before publishing.",
+      "allegation needs human review: The director who performed the procedure is not a board-certified plastic surgeon, which the reviewer only found out afterwards"
+    ],
+    "branch": "C003-GN",
+    "procedures": [
+      "chin filler (1cc)"
+    ],
+    "surgeon": null,
+    "price_krw": 250000,
+    "price_channel": "local",
+    "outcome": "mixed",
+    "side_effects": [],
+    "allegations": [
+      "The director who performed the procedure is not a board-certified plastic surgeon, which the reviewer only found out afterwards"
+    ],
+    "translation_en": "I got 1cc of chin filler at Misoraine Clinic (미소라인의원) and it cost 250,000 KRW. I found out later that the director isn't a board-certified plastic surgeon. The result is decent, but next time I think I'll go to a clinic with a board-certified specialist.",
+    "verifier_issues": [
+      "price_channel is set to \"local\" but the post gives no evidence of how the price was obtained (no mention of walk-in, event price, app coupon, or promotion); this is an unsupported inference.",
+      "Clinic name is romanized as \"Misoraine Clinic\" in the translation while the registry entry is \"Misoline Clinic\" (C003-GN); the transliteration should be aligned before publishing."
+    ],
+    "trust": {
+      "sponsored": false,
+      "clinic_owned_source": false,
+      "receipt": false,
+      "rating_weight": 1
+    },
+    "secs": 36.9
+  },
+  {
+    "id": "r10",
+    "source": "https://www.reddit.com/r/example/comments/abc123",
+    "cross_posts": [],
+    "candidates": [
+      {
+        "clinic": "C001",
+        "branch": "C001-SS",
+        "via": "name"
+      }
+    ],
+    "status": "hold",
+    "hold": [
+      "allegation needs human review: The agency charged 1.6M KRW while locals paid 1.5M KRW for the same surgery, so the agency took a cut/markup; The agency's interpreter rushed the consultation; The reviewer never received the aftercare instruction sheet in English"
+    ],
+    "branch": "C001-SS",
+    "procedures": [
+      "double eyelid surgery"
+    ],
+    "surgeon": "Dr. Kim",
+    "price_krw": 1600000,
+    "price_channel": "agency",
+    "outcome": "mixed",
+    "side_effects": [],
+    "allegations": [
+      "The agency charged 1.6M KRW while locals paid 1.5M KRW for the same surgery, so the agency took a cut/markup",
+      "The agency's interpreter rushed the consultation",
+      "The reviewer never received the aftercare instruction sheet in English"
+    ],
+    "translation_en": "Got double eyelid surgery at Haneulbit (Sinsa branch) in July. Paid 1.6M KRW through an agency — later found out locals paid 1.5M, so the agency clearly took a cut. Dr. Kim was great, but the agency's interpreter rushed the consult and I never got the aftercare sheet in English.",
+    "verifier_issues": [],
+    "trust": {
+      "sponsored": false,
+      "clinic_owned_source": false,
+      "receipt": false,
+      "rating_weight": 1
+    },
+    "secs": 25.7
   }
 ]
