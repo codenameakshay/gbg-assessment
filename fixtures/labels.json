@@ -1,0 +1,12 @@
+{
+  "r01": { "branch": "C001-SS", "dup_of": null, "sponsored": false },
+  "r02": { "branch": "C001-SS", "dup_of": "r01", "sponsored": false },
+  "r03": { "branch": "C001-GN", "dup_of": null, "sponsored": true },
+  "r04": { "branch": null, "dup_of": null, "sponsored": false, "needs_human": "chosung ㅎㄴ at 강남역 matches C001-GN and C005-GN; ghost-surgery allegation" },
+  "r05": { "branch": "C004-SS", "dup_of": null, "sponsored": false },
+  "r06": { "branch": "C002-AP", "dup_of": null, "sponsored": false, "clinic_owned_source": true },
+  "r07": { "branch": "C003-GN", "dup_of": null, "sponsored": false },
+  "r08": { "branch": "C001-SS", "dup_of": null, "sponsored": false, "note": "same author follow-up, not a duplicate" },
+  "r09": { "branch": "C002-AP", "dup_of": null, "sponsored": false, "also_quoted": ["C001-GN"] },
+  "r10": { "branch": "C001-SS", "dup_of": null, "sponsored": false, "note": "agency price, not local price" }
+}

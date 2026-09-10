@@ -1,0 +1,19 @@
+{
+  "name": "gbg-assessment",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.124.0",
+    "zod": "^4.6.1"
+  },
+  "scripts": {
+    "smoke": "bun src/smoke.ts",
+    "typecheck": "tsc --noEmit"
+  }
+}

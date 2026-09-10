@@ -1,0 +1,55 @@
+[
+  {
+    "id": "C001",
+    "name_ko": "하늘빛성형외과",
+    "name_en": "Haneulbit Plastic Surgery",
+    "aliases": ["하늘빛", "Haneulbit"],
+    "former_names": [],
+    "board_certified_ps": true,
+    "branches": [
+      { "id": "C001-GN", "name_ko": "강남역점", "area": "강남역" },
+      { "id": "C001-SS", "name_ko": "신사점", "area": "신사" }
+    ],
+    "surgeons": ["김도윤", "박서준"]
+  },
+  {
+    "id": "C002",
+    "name_ko": "온유성형외과의원",
+    "name_en": "Onyu Plastic Surgery",
+    "aliases": ["온유", "온유성형외과"],
+    "former_names": [],
+    "board_certified_ps": true,
+    "branches": [{ "id": "C002-AP", "name_ko": "압구정 본점", "area": "압구정" }],
+    "surgeons": ["이하은"]
+  },
+  {
+    "id": "C003",
+    "name_ko": "미소라인의원",
+    "name_en": "Misoline Clinic",
+    "aliases": ["미소라인"],
+    "former_names": [],
+    "board_certified_ps": false,
+    "branches": [{ "id": "C003-GN", "name_ko": "강남점", "area": "강남역" }],
+    "surgeons": ["최민재"]
+  },
+  {
+    "id": "C004",
+    "name_ko": "새봄성형외과",
+    "name_en": "Saebom Plastic Surgery",
+    "aliases": ["새봄"],
+    "former_names": ["봄날성형외과"],
+    "board_certified_ps": true,
+    "branches": [{ "id": "C004-SS", "name_ko": "신사점", "area": "신사" }],
+    "surgeons": ["정유나"]
+  },
+  {
+    "id": "C005",
+    "name_ko": "하늘성형외과",
+    "name_en": "Haneul Plastic Surgery",
+    "aliases": ["하늘"],
+    "former_names": [],
+    "board_certified_ps": true,
+    "branches": [{ "id": "C005-GN", "name_ko": "강남역점", "area": "강남역" }],
+    "surgeons": ["한지호"]
+  }
+]
